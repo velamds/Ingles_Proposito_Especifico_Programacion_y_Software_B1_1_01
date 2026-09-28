@@ -1,0 +1,204 @@
+{"frames": {
+
+"flowchart_chart_01.png":
+{
+	"frame": {"x":617,"y":489,"w":123,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":106},
+	"sourceSize": {"w":123,"h":106}
+},
+"flowchart_chart_02.png":
+{
+	"frame": {"x":742,"y":472,"w":123,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":106},
+	"sourceSize": {"w":123,"h":106}
+},
+"flowchart_chart_03.png":
+{
+	"frame": {"x":883,"y":251,"w":123,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":106},
+	"sourceSize": {"w":123,"h":106}
+},
+"flowchart_chart_04.png":
+{
+	"frame": {"x":230,"y":472,"w":234,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":146},
+	"sourceSize": {"w":234,"h":146}
+},
+"flowchart_chart_05.png":
+{
+	"frame": {"x":1,"y":282,"w":257,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":170},
+	"sourceSize": {"w":257,"h":170}
+},
+"flowchart_chart_06.png":
+{
+	"frame": {"x":450,"y":268,"w":173,"h":188},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":173,"h":188},
+	"sourceSize": {"w":173,"h":188}
+},
+"flowchart_chart_07.png":
+{
+	"frame": {"x":466,"y":458,"w":149,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":172},
+	"sourceSize": {"w":149,"h":172}
+},
+"flowchart_chart_08.png":
+{
+	"frame": {"x":1,"y":454,"w":227,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":174},
+	"sourceSize": {"w":227,"h":174}
+},
+"flowchart_chartLarge_0001.png":
+{
+	"frame": {"x":750,"y":186,"w":176,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":63},
+	"sourceSize": {"w":176,"h":63}
+},
+"flowchart_chartLarge_0002.png":
+{
+	"frame": {"x":1,"y":142,"w":417,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":417,"h":83},
+	"sourceSize": {"w":417,"h":83}
+},
+"flowchart_chartLarge_0003.png":
+{
+	"frame": {"x":449,"y":215,"w":264,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":264,"h":51},
+	"sourceSize": {"w":264,"h":51}
+},
+"flowchart_chartLarge_0004.png":
+{
+	"frame": {"x":883,"y":359,"w":111,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":67},
+	"sourceSize": {"w":111,"h":67}
+},
+"flowchart_chartLarge_0005.png":
+{
+	"frame": {"x":742,"y":580,"w":264,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":264,"h":69},
+	"sourceSize": {"w":264,"h":69}
+},
+"flowchart_chartLarge_0006.png":
+{
+	"frame": {"x":883,"y":428,"w":111,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":50},
+	"sourceSize": {"w":111,"h":50}
+},
+"flowchart_chartLarge_0007.png":
+{
+	"frame": {"x":420,"y":142,"w":328,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":328,"h":71},
+	"sourceSize": {"w":328,"h":71}
+},
+"flowchart_chartLarge_0008.png":
+{
+	"frame": {"x":750,"y":133,"w":189,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":189,"h":51},
+	"sourceSize": {"w":189,"h":51}
+},
+"flowchart_chartLarge_0009.png":
+{
+	"frame": {"x":1,"y":1,"w":684,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":684,"h":139},
+	"sourceSize": {"w":684,"h":139}
+},
+"flowchart_chartLarge_0010.png":
+{
+	"frame": {"x":687,"y":1,"w":318,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":318,"h":130},
+	"sourceSize": {"w":318,"h":130}
+},
+"flowchart_chartLarge_0011.png":
+{
+	"frame": {"x":1,"y":630,"w":264,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":264,"h":33},
+	"sourceSize": {"w":264,"h":33}
+},
+"flowchart_guide.png":
+{
+	"frame": {"x":260,"y":282,"w":188,"h":188},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":188},
+	"sourceSize": {"w":188,"h":188}
+},
+"flowchart_nameButton.png":
+{
+	"frame": {"x":1,"y":227,"w":446,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":446,"h":53},
+	"sourceSize": {"w":446,"h":53}
+},
+"flowchart_ui_cloudLargeEnd_B.png":
+{
+	"frame": {"x":820,"y":251,"w":61,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":219},
+	"sourceSize": {"w":61,"h":219}
+},
+"flowchart_ui_cloudLargeMid_B.png":
+{
+	"frame": {"x":625,"y":268,"w":90,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":219},
+	"sourceSize": {"w":90,"h":219}
+},
+"flowchart_ui_cloudLargeStart_B.png":
+{
+	"frame": {"x":717,"y":251,"w":101,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":219},
+	"sourceSize": {"w":101,"h":219}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "flowchart_sc01_st01.png",
+	"format": "RGBA8888",
+	"size": {"w":1007,"h":664},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:31b83d179d6073d085e84d7b46c4db4f:fd0309de5e8b68a7c3a39c5a3846ae08:d1efbd0529336a0035b6eb040c302c0b$"
+}
+}

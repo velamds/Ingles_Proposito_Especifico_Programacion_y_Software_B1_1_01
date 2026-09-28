@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Flowchart</title>
+  <style>
+    body {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="phaser-game"></div>
+  <script src="js/phaser.min.js"></script>
+  <script src="js/spot_object.js"></script>
+  <script src="js/dragable_object.js"></script>
+  <script src="js/clickable_object.js"></script>
+  <script src="js/message_handler.js"></script>
+  <script src="js/progress_handler.js"></script>
+  <script src="js/state_boot.js"></script>
+  <script src="js/state_flowchart_load.js"></script>
+  <script src="js/data_flowchart.js"></script>
+  <script src="js/data_flowchart1.js"></script>
+  <script src="js/state_flowchart1.js"></script>
+  <script src="js/data_flowchart2.js"></script>
+  <script src="js/state_flowchart2.js"></script>
+  <script src="js/data_flowchart3.js"></script>
+  <script src="js/state_flowchart3.js"></script>
+  <script src="js/data_flowchart4.js"></script>
+  <script src="js/state_flowchart4.js"></script>
+  
+  <script src="js/state_flowchart_over.js"></script>
+  <script>
+    var game = new Phaser.Game(1920, 719, Phaser.CANVAS, '');
+    game.state.add('StateBoot', StateBoot);
+    game.state.add('StateLoad', StateFlowchartLoad);
+    game.state.add('StateFlowchart1', StateFlowchart1);
+    game.state.add('StateFlowchart2', StateFlowchart2);
+    game.state.add('StateFlowchart3', StateFlowchart3);
+    game.state.add('StateFlowchart4', StateFlowchart4);
+    game.state.add('StateFlowchartOver', StateFlowchartOver);
+    game.state.start('StateBoot');
+  </script>
+</body>
+</html>
